@@ -1,6 +1,9 @@
 {
   "name": "b",
   "version": "1.0.0",
+  "scripts": {
+    "make": "echo \"b::make\""
+  },
   "dependencies": {
     "c": "^1.0.0"
   }
