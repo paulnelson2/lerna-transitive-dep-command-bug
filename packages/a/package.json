@@ -1,0 +1,10 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "scripts": {
+    "make": "echo \"a::make\""
+  },
+  "dependencies": {
+    "b": "^1.0.0"
+  }
+}

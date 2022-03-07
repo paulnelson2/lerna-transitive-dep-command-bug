@@ -1,0 +1,7 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "scripts": {
+    "make": "sleep 10 && echo \"c::make\""
+  }
+}
